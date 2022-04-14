@@ -12,10 +12,10 @@ namespace SimpleLambdaExpressions
         {
             Console.WriteLine("***** Fun with Lambdas *****\n");
             TraditionalDelegateSyntax();
-            AnonymousMethodSyntax();
+            //AnonymousMethodSyntax();
             Console.WriteLine();
 
-            LambdaExpressionSyntax();
+            //LambdaExpressionSyntax();
             Console.ReadLine();
         }
 

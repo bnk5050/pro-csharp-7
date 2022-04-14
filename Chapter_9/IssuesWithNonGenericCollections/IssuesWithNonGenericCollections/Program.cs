@@ -15,6 +15,8 @@ namespace IssuesWithNonGenericCollections
             UsePersonCollection();
             Console.WriteLine();
             UseGenericList();
+            SimpleBoxUnboxOperation();
+            WorkWithArrayList();
 
             Console.ReadLine();
         }
